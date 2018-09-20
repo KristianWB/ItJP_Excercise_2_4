@@ -1,4 +1,4 @@
-Name of projekt is: Hello World!!!
+Name of projekt is: ConvertSquaremeterIntoFeet
 
 No prerequestes other than an IDE (ie. Intellij)
 
